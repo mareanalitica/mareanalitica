@@ -1,13 +1,16 @@
 ### Seja bem-vindo(a) ao meu perfil do GitHub. Aqui está uma visão geral rápida das estatísticas do meu perfil.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareanalitica&theme=blue-white" alt="top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mareanalitica&show_icons=true" alt="Estatísticas do GitHub" />
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulorodrigues99/)](https://www.linkedin.com/in/paulorodrigues99/)
+[![Gmail Badge](https://img.shields.io/badge/-mareanalitica@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mareanalitica@gmail.com)](mailto:mareanalitica@gmail.com)
 
 ### Sobre Mim
 
 Neste portifólio, você encontrará uma variedade de projetos nos quais tenho trabalhado. Meu nome é Paulo e sou um entusiasta de programação apaixonado por automação de processos e mineração de dados. Estou constantemente explorando novas tecnologias e desenvolvendo soluções para desafios interessantes.
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareanalitica&theme=blue-white" alt="top languages" />
+</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mareanalitica&show_icons=true" alt="Estatísticas do GitHub" />
 
 ## Projetos Destacados
 
@@ -15,15 +18,6 @@ Aqui estão alguns dos projetos mais destacados em meu perfil do GitHub:
 
 
 Certifique-se de explorar esses projetos para ver meu trabalho em ação.
-
-## Contato
-
-Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem por meio das seguintes opções:
-
-- Email: `mareanalitica@gmail.com`
-- LinkedIn: [Meu Perfil do LinkedIn](https://www.linkedin.com/in/paulorodrigues99/)
-
-Estou sempre aberto(a) a colaborações interessantes e adoraria ouvir suas ideias.
 
 ## Obrigado por visitar!
 
