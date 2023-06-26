@@ -1,10 +1,11 @@
 ### Seja bem-vindo(a) ao meu perfil do GitHub. Aqui está uma visão geral rápida das estatísticas do meu perfil.
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareanalitica&theme=blue-white" alt="top languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=mareanalitica&show_icons=true" alt="Estatísticas do GitHub" />
 </p>
 
-## Sobre Mim
+### Sobre Mim
 
 Neste portifólio, você encontrará uma variedade de projetos nos quais tenho trabalhado. Meu nome é Paulo e sou um entusiasta de programação apaixonado por automação de processos e mineração de dados. Estou constantemente explorando novas tecnologias e desenvolvendo soluções para desafios interessantes.
 
