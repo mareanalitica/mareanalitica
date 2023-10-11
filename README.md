@@ -10,8 +10,6 @@ Neste portifólio, você encontrará uma variedade de projetos nos quais tenho t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareanalitica&theme=blue-white" alt="top languages" />
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mareanalitica&show_icons=true" alt="Estatísticas do GitHub" />
-
 ## Projetos Destacados
 
 Aqui estão alguns dos projetos mais destacados em meu perfil do GitHub:
