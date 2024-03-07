@@ -70,20 +70,6 @@ Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Full Stac
 </p>
 
 ---
-
-<div align="center">
-  <h3>🌟 UM BÔNUS EXCLUSIVO PARA VOCÊ! 🌟</h3>
-  <p>Aproveite essas ofertas incríveis e comece com um DINHEIRO EXTRA! Clique nos links abaixo para ativar seus bônus exclusivos:</p>
-  <a href="https://accounts.binance.com/register?ref=557164101">
-    <img src="https://img.shields.io/badge/-Ganhe_na_Binance-333333?style=flat&logo=binance" alt="Binance">
-  </a>
-  <a href="https://hetzner.cloud/?ref=CYHolma0NEQU">
-    <img src="https://img.shields.io/badge/-Créditos_na_Hetzner_Cloud-333333?style=flat&logo=hetzner" alt="Hetzner Cloud">
-  </a>
-  <a href="https://m.do.co/c/152594b83678">
-    <img src="https://img.shields.io/badge/-Bônus_na_DigitalOcean-333333?style=flat&logo=digitalocean" alt="DigitalOcean">
-  </a>
-</div>
 <br>
 <div align="center">
   <h3>🌐 Conecte-se Comigo! 🌐</h3>
