@@ -1,102 +1,82 @@
 <div align="right">
-  
-![](https://komarev.com/ghpvc/?username=mareanalitica&color=006bed)
+
+![](https://komarev.com/ghpvc/?username=mareanalitica&color=2B8BAD)
 [![GitHub](https://img.shields.io/github/followers/mareanalitica?label=follow&style=social)](https://github.com/mareanalitica)
 </div>
+
 <div align="center">
-  
-# Olá, eu sou Paulo Victor! 👋 <br> Full Stack Developer | DevOps | Inteligent Automation Specialist
-<br>
-Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Full Stack. Minha experiência abrange desde a criação de soluções digitais robustas e modernas até a otimização de interfaces responsivas centradas no usuário.
+
+# Olá, eu sou Paulo Victor 👋
+### Fundador & CTO da [Mare Analítica](https://mareanalitica.com.br) · DevOps · Infra Lean · IA aplicada
+
+Ajudo empresas a **sair da fatura cara de nuvem pública** e a colocar **software, automação e IA em produção**, em infraestrutura própria, estável e sob controle do cliente.
+
 </div>
 
 ---
 
-### 💻 Hard Skills
+### 🌊 O que eu faço hoje
 
-#### 🖥️ Sistemas Operacionais
-- ![Linux](https://img.shields.io/badge/-Linux-333333?style=plastic&logo=linux) ![Debian](https://img.shields.io/badge/-Debian-333333?style=plastic&logo=debian) ![Windows](https://img.shields.io/badge/-Windows-333333?style=plastic&logo=windows)
+- **☁️ Infraestrutura Lean & DevOps gerenciado:** VPS dedicada com servidor standby, Docker Swarm, Traefik, Portainer e CI/CD, com hardening e monitoramento. Setup completo em até 5 dias úteis e **até 70% de economia** em relação à nuvem pública.
+- **🤖 IA em produção:** orquestração de LLMs via OpenRouter com fallback automático, agentes (RAG, MCP) e controle de custo por rota.
+- **💬 Automação e WhatsApp:** fluxos com n8n, integração com WhatsApp e CRM (Evolution/EvoCRM).
+- **🏢 ERP multi-tenant:** SaaS sobre Frappe/ERPNext com provisionamento e configuração automática por JSON Schema e CLI.
+- **🧩 Software sob encomenda:** backend, microsserviços e integrações (SSO/Keycloak, pagamentos via Asaas, recuperação de banco de dados).
 
+### 🚀 Em construção
 
+- **Custom VPS Deploy:** deploy open source para mais de 100 nichos (PT · EN · ES)
+- **CQQ:** bilheteria digital com transferência e revenda de ingressos
+- **7pay:** comanda compartilhada com divisão inteligente e pagamento na mesa
 
-#### 💻 Linguagens de Programação e Frameworks
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=typescript) ![Python](https://img.shields.io/badge/Python-333333?style=plastic&logo=python) ![Django](https://img.shields.io/badge/-Django-333333?style=plastic&logo=django) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express) ![npm](https://img.shields.io/badge/-npm-333333?style=plastic&logo=npm) ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react) ![Next JS](https://img.shields.io/badge/-Next_JS-333333?style=plastic&logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-333333?style=plastic&logo=angular) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=plastic&logo=selenium) ![Puppeteer](https://img.shields.io/badge/-Puppeteer-333333?style=plastic&logo=puppeteer) ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=plastic&logo=graphql) ![Socket
-.io](https://img.shields.io/badge/-Socket.io-333333?style=plastic&logo=socket.io) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=plastic&logo=vercel)
+### 🏅 Trajetória
 
-#### 💾 Bancos de Dados
-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=plastic&logo=rabbitmq) ![Redis](https://img.shields.io/badge/-Redis-333333?style=plastic&logo=redis) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=plastic&logo=elasticsearch) ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=plastic&logo=supabase) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase) ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=plastic&logo=prisma) 
-<!-- ![Xano](https://img.shields.io/badge/-Xano-333333?style=plastic&logo=xano-io) -->
-
-#### 🛠️ Ferramentas de Desenvolvimento e DevOps
-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker) ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=plastic&logo=gitlab) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=plastic&logo=github-actions) ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git) ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=plastic&logo=nginx) ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=plastic&logo=traefik)
-
-
-#### ☁️ Cloud e Monitoramento
-- ![AWS](https://img.shields.io/badge/-AWS-333333?style=plastic&logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-333333?style=plastic&logo=google-cloud) ![Azure](https://img.shields.io/badge/-Azure-333333?style=plastic&logo=microsoft-azure) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=plastic&logo=digitalocean) ![Hetzner](https://img.shields.io/badge/-Hetzner-333333?style=plastic&logo=hetzner) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=plastic&logo=cloudflare)
-
-#### 🛠 Outras Ferramentas e Tecnologias
-- ![Postman](https://img.shields.io/badge/-Postman-333333?style=plastic&logo=postman) ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=plastic&logo=visual-studio-code) ![Rest API](https://img.shields.io/badge/-Rest_API-333333?style=plastic) ![n8n](https://img.shields.io/badge/-n8n-333333?style=plastic)
-
-#### 📈 Ferramentas Organizacionais e Produtividade
-- ![Notion](https://img.shields.io/badge/-Notion-333333?style=plastic&logo=notion) ![Trello](https://img.shields.io/badge/-Trello-333333?style=plastic&logo=trello) ![Figma](https://img.shields.io/badge/-Figma-333333?style=plastic&logo=figma)
-![Miro](https://img.shields.io/badge/-Miro-333333?style=plastic&logo=miro)
-![Excalidraw](https://img.shields.io/badge/-Excalidraw-333333?style=plastic&logo=Excalidraw)
-
-
-#### 🤖 Ferramentas de Inteligência Artificial
-- ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=plastic&logo=openai) ![Ollama](https://img.shields.io/badge/-Ollama-333333?style=plastic&logo=ollama)
+Mais de 7 anos como engenheiro full stack sênior, com experiência enterprise em **NTT Data/Santander, Avanade, MV, All Tax e Aeolus Cloud**. Trabalhei com sistemas financeiros críticos, microsserviços e pipelines de automação, sempre responsável pelo projeto do começo ao fim.
 
 ---
+
+### 🛠️ Stack principal
+
+**Infra & DevOps**
+![Docker](https://img.shields.io/badge/-Docker_Swarm-333333?style=plastic&logo=docker) ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=plastic&logo=traefikproxy) ![Portainer](https://img.shields.io/badge/-Portainer-333333?style=plastic&logo=portainer) ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=plastic&logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=plastic&logo=github-actions) ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=plastic&logo=nginx) ![Linux](https://img.shields.io/badge/-Linux-333333?style=plastic&logo=linux) ![Keycloak](https://img.shields.io/badge/-Keycloak-333333?style=plastic&logo=keycloak)
+
+**Cloud**
+![Hetzner](https://img.shields.io/badge/-Hetzner-333333?style=plastic&logo=hetzner) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=plastic&logo=digitalocean) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=plastic&logo=cloudflare) ![AWS](https://img.shields.io/badge/-AWS-333333?style=plastic&logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-333333?style=plastic&logo=google-cloud) ![Azure](https://img.shields.io/badge/-Azure-333333?style=plastic&logo=microsoft-azure)
+
+**IA & Automação**
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-333333?style=plastic) ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=plastic&logo=openai) ![Ollama](https://img.shields.io/badge/-Ollama-333333?style=plastic&logo=ollama) ![n8n](https://img.shields.io/badge/-n8n-333333?style=plastic&logo=n8n) ![WhatsApp](https://img.shields.io/badge/-WhatsApp_API-333333?style=plastic&logo=whatsapp)
+
+**Backend & ERP**
+![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python) ![Frappe](https://img.shields.io/badge/-Frappe%2FERPNext-333333?style=plastic&logo=frappe) ![Django](https://img.shields.io/badge/-Django-333333?style=plastic&logo=django) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js) ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=openjdk)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-333333?style=plastic&logo=angular)
+
+**Dados & Mensageria**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql) ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=plastic&logo=mariadb) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-333333?style=plastic&logo=redis) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=plastic&logo=rabbitmq) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=plastic&logo=elasticsearch) ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=plastic&logo=supabase)
+
+---
+
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/mareanalitica" title="Perfil do Guilherme">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mareanalitica&theme=dark&show_icons=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareanalitica&layout=compact&theme=dark&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mareanalitica&theme=dark&hide_border=true" />
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mareanalitica&theme=dark&show_icons=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareanalitica&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=mareanalitica&column=8&theme=darkhub&no-frame=true&no-bg=true" />
-</p>
-
-### 📍 Profile Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mareanalitica/count.svg" alt="Número de visitantes no perfil" />
-</p>
-
 ---
-<br>
-<div align="center">
-  <h3>🌐 Conecte-se Comigo! 🌐</h3>
-  <p>Segue minhas redes sociais e entra em contato para não perder nenhuma novidade!</p>
-  <a href="https://calendar.app.google/zUFKR4oziHEptQj69">
-    <img src="https://img.shields.io/badge/-Agende_um_Horário_comigo-333333?style=flat&logo=google-calendar" alt="Google Calendar">
-  </a>
-  <a href="https://www.linkedin.com/company/mareanalitica">
-    <img src="https://img.shields.io/badge/-Conecte_se_no_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/mare.analitica">
-    <img src="https://img.shields.io/badge/-Siga_no_Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.youtube.com/channel/UCBQRzZCePhmql9_7iawBgiA">
-    <img src="https://img.shields.io/badge/-Inscreva_se_no_YouTube-red?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://twitter.com/mareanalitica">
-    <img src="https://img.shields.io/badge/-Siga_no_Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://mareanalitica.com.br/">
-    <img src="https://img.shields.io/badge/-Visite_meu_Site_Pessoal-blue?style=flat-square" alt="Site Pessoal">
-  </a>
-</div>
-<br>
 
----
 <div align="center">
-Como Desenvolvedor Full Stack, minha paixão é criar e otimizar soluções inovadoras, sempre em busca da excelência em tecnologia e desenvolvimento. Vamos conectar e explorar como podemos colaborar em projetos incríveis!
+
+### 🤝 Vamos conversar?
+Quer cortar custo de nuvem, colocar IA em produção ou tirar um sistema do papel? Agende uma conversa.
+
+<a href="https://calendar.app.google/zUFKR4oziHEptQj69"><img src="https://img.shields.io/badge/-Agendar_conversa-2B8BAD?style=for-the-badge&logo=google-calendar&logoColor=white"></a>
+<a href="https://mareanalitica.com.br/"><img src="https://img.shields.io/badge/-mareanalitica.com.br-0B1D32?style=for-the-badge"></a>
+
+<a href="https://www.linkedin.com/company/mareanalitica"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/mare.analitica"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCBQRzZCePhmql9_7iawBgiA"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+<a href="https://twitter.com/mareanalitica"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"></a>
+
 </div>
