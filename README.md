@@ -65,18 +65,17 @@ Mais de 7 anos como engenheiro full stack sênior, com experiência enterprise e
 </div>
 
 ---
-
 <div align="center">
 
 ### 🤝 Vamos conversar?
 Quer cortar custo de nuvem, colocar IA em produção ou tirar um sistema do papel? Agende uma conversa.
 
-<a href="https://calendar.app.google/zUFKR4oziHEptQj69"><img src="https://img.shields.io/badge/-Agendar_conversa-2B8BAD?style=for-the-badge&logo=google-calendar&logoColor=white"></a>
+<a href="https://calendar.app.google/5pJQSaLAqnseK2Uq8"><img src="https://img.shields.io/badge/-Agendar_conversa-2B8BAD?style=for-the-badge&logo=google-calendar&logoColor=white"></a>
 <a href="https://mareanalitica.com.br/"><img src="https://img.shields.io/badge/-mareanalitica.com.br-0B1D32?style=for-the-badge"></a>
 
 <a href="https://www.linkedin.com/company/mareanalitica"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/mare.analitica"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCBQRzZCePhmql9_7iawBgiA"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/@mareanalitica"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
 <a href="https://twitter.com/mareanalitica"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"></a>
 
 </div>
